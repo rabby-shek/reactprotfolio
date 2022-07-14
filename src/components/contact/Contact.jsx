@@ -37,7 +37,7 @@ const Contact = () => {
             <FaWhatsapp className='contact_option-icon'/>
             <h4>WhatsApp</h4>
             <h5>+8801724707680</h5>
-            <a href="https://api.whatsapp.com/send?phone=+8801724707680" target='_blank'>Send a massage</a>
+            <a href="https://wa.me/+8801724707680" target='_blank'>Send a massage</a>
           </article>
 
         </div>
