@@ -6,7 +6,7 @@ import {FiTwitter} from 'react-icons/fi'
 const Footer = () => {
   return (
     <footer>
-        <a href="suvo" className='footer_logo'>MRP Suvo</a>
+        <a href="suvo" id='footer' className='footer_logo'>MRP Suvo</a>
         <ul className="permalinks">
           <li><a href="#">Home</a></li>
           <li><a href="#about">About</a></li>

@@ -80,3 +80,13 @@ header{
         display: none;
     }
 }
+
+@media screen and (max-width:667px){
+    header{
+        height: 150vh;
+    }
+    .header_socials,
+    .scroll_down{
+        display: none;
+    }
+}
