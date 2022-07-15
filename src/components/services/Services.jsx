@@ -14,13 +14,13 @@ const Services = () => {
           </div>
           <ul className='service_list'>
             <li><BiCheck className='service_list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Responsive Website Design</p>
             </li>
             <li><BiCheck className='service_list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Pixel Perfect Design.</p>
             </li>
             <li><BiCheck className='service_list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Front-End Development.</p>
             </li>
             
             
@@ -36,13 +36,13 @@ const Services = () => {
           </div>
           <ul className='service_list'>
             <li><BiCheck className='service_list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Web Development.</p>
             </li>
             <li><BiCheck className='service_list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Back-End Development.</p>
             </li>
             <li><BiCheck className='service_list-icon'/>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>Support.</p>
             </li>
             
             

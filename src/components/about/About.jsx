@@ -34,11 +34,14 @@ const About = () => {
             <article className='about_card'>
               <VscFolderLibrary className='about_icon'/>
               <h5>projects </h5>
-              <small>10+ completed</small>
+              <small>5+ completed</small>
 
             </article>
+            
           </div>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Labore veniam officia, facilis et saepe voluptates fuga repellat minus quo mollitia, placeat in perspiciatis hic nobis magni expedita ratione obcaecati id.</p>
+          <p>Birthday : 9 May 2000</p>
+          <p>Age : 22 </p>
+          <p>City : Matuail,Jatrabari,Bangladesh</p>
            <a href="#contact" className='btn btn-primary'>Let's talk</a>
         </div>
       </div>

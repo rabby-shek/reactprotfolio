@@ -1,8 +1,8 @@
 import React from 'react'
 import './protfolio.css'
 import IMG1 from '../assets/protfolio_4.PNG'
-import IMG2 from '../assets/portfolio2.jpg'
-import IMG3 from '../assets/portfolio3.jpg'
+import IMG2 from '../assets/protfolio_3.PNG'
+import IMG3 from '../assets/calculator.PNG'
 
 const Protfolio = () => {
   return (
@@ -16,7 +16,7 @@ const Protfolio = () => {
         </div>
           <h3>Digital Clock</h3>
          <div className="protfolio_item-cta">
-         <a href="https://github.com" className='btn' target="_blank">Github</a>
+         <a href="https://github.com/rabby-shek/digital_clock" className='btn' target="_blank">Github</a>
           <a href="https://rabby-shek.github.io/digital_clock/" className='btn btn-primary' target="_blank">Live Demo</a>
          </div>
         
@@ -24,24 +24,24 @@ const Protfolio = () => {
       </article>
       <article className='protfolio_items'>
         <div className="protfolio_item-image">
-          <img src={IMG1} alt="im1" />
+          <img src={IMG2} alt="im1" />
         </div>
-          <h3>This is a protfolio item image.</h3>
+          <h3>tik tac toe Game .</h3>
          <div className="protfolio_item-cta">
-         <a href="https://github.com" className='btn' target="_blank">Github</a>
-          <a href="https://rabby-shek.github.io/digital_clock/" className='btn btn-primary' target="_blank">Live Demo</a>
+         <a href="https://github.com/rabby-shek/tiktactoe" className='btn' target="_blank">Github</a>
+          <a href="https://rabby-shek.github.io/tiktactoe/" className='btn btn-primary' target="_blank">Live Demo</a>
          </div>
         
 
       </article>
       <article className='protfolio_items'>
         <div className="protfolio_item-image">
-          <img src={IMG1} alt="im1" />
+          <img src={IMG3} alt="im1" />
         </div>
-          <h3>This is a protfolio item image.</h3>
+          <h3>Calculator.</h3>
          <div className="protfolio_item-cta">
-         <a href="https://github.com" className='btn' target="_blank">Github</a>
-          <a href="https://rabby-shek.github.io/digital_clock/" className='btn btn-primary' target="_blank">Live Demo</a>
+         <a href="https://github.com/rabby-shek/calculator" className='btn' target="_blank">Github</a>
+          <a href="https://rabby-shek.github.io/calculator/" className='btn btn-primary' target="_blank">Live Demo</a>
          </div>
         
 
